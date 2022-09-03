@@ -1,0 +1,77 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.file.id" : "6d665a05-732a-4c72-b741-f9e9f86216ec",
+  "config.email.suffix" : "@",
+  "config.file.name" : "excel-to-json (5).csv",
+  "config.field.mappings" : {
+    "Sheet2/Expected results" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10044"
+    },
+    "Sheet2/Status" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10045"
+    },
+    "Sheet2/Type" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10038"
+    },
+    "Sheet2/Steps to be executed" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10042"
+    },
+    "Sheet2/Preconditions" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10041"
+    },
+    "Sheet2/Bugs Traceability" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10047"
+    },
+    "Sheet2/Requirement Traceability" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10046"
+    },
+    "Sheet2/Issue type" : {
+      "jira.field" : "issuetype",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "Sheet2/Name / Title" : {
+      "jira.field" : "summary",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "Sheet2/TC ID" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10039"
+    },
+    "Sheet2/Test Data" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10043"
+    }
+  },
+  "config.csv.file.id" : null,
+  "config.value.mappings" : { },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "FAC",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "FacebookTesting",
+    "project.lead" : "62f3ca0032850ea2a326962d"
+  },
+  "config.date.format" : "dd/MMM/yy h:mm a"
+}
